@@ -8,5 +8,5 @@ os = platform.platform()
 
 # Print Statement
 print("---------------------------------------------")
-print(f"Python version : {PyVersion!r}|\nOS = {os!r}")
+print(f"Python version : {PyVersion!r}\nOS = {os!r}")
 print("---------------------------------------------")
